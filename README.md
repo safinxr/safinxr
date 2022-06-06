@@ -8,4 +8,4 @@ Skills: HTML / CSS / JAVASCRIPT / REACT / NODE / MONGODB
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=safinxr)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=safinxr)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=safinxr)  (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
