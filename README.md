@@ -1,11 +1,4 @@
 ![Full-Stack Web Developer ](https://raw.githubusercontent.com/safinxr/safinxr/main/image/three.gif)
-
-<h2 align="left">📈 Current Stats</h2>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-###
-
-
 <h2 align="left">🤖 Current overview</h2>
 
 
@@ -13,6 +6,14 @@
 - 🔐 I'm Competing - on problem-solving websites.
 - 🔭 I’m looking - to collaborate on open-source projects.
 - ⚡ Fun fact - I can turn caffeine into code.
+
+<h2 align="left">📈 Current Stats</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+###
+
+
+
 
 
 <h2 align="left">💻 Technologies that I know</h2>
