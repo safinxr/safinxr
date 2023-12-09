@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/react.png" height="40" alt=""  />
   <img width="12" />
-</div>
-<div align="center" style="margin-top: 20px;>
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/node.png" height="40" alt=""  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/firebase.png" height="40" alt=""  />
@@ -29,5 +27,6 @@
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/express.png" height="40" alt=""  />
   <img width="12" />
 </div>
+
 
 ###
