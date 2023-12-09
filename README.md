@@ -5,7 +5,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/HTML.png" height="40" alt=""  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/safinxr/safinxr/main/icons/css.png" height="40" alt=""  />
