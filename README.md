@@ -7,8 +7,9 @@
 
 
 <h2 align="left">🤖 Current overview</h2>
-- 🌱 Currently learning *Next.js*
 
+
+- 🌱 Currently learning Next.js
 - 💬 Ask me about *React*
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: *rakibt23p@gmail.com*
