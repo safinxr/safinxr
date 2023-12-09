@@ -4,7 +4,7 @@
 <h2 align="left">📈 Current Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak">
 </p>
 
 
