@@ -4,6 +4,16 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast)](https://git.io/streak-stats)
 ###
+
+
+<h2 align="left">🤖 Current overview</h2>
+- 🌱 Currently learning *Next.js*
+
+- 💬 Ask me about *React*
+- 👯 I’m looking to collaborate on open-source projects.
+- 📫 How to reach me: *rakibt23p@gmail.com*
+
+- ⚡ Fun fact: *Committing code and committing to not taking life too seriously. 🤪*
 <h2 align="left">💻 Technologies that I know</h2>
 
 ###
