@@ -12,7 +12,7 @@
 - 🌱 I'm Currently - learning Next.js
 - 🔐 I'm Competing - on problem-solving websites.
 - 🔭 I’m looking - to collaborate on open-source projects.
-- ⚡ Fun fact - 
+- ⚡ Fun fact - I can turn caffeine into code.
 
 
 <h2 align="left">💻 Technologies that I know</h2>
