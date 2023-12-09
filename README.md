@@ -3,7 +3,7 @@
 
 <h2 align="left">📈 Current Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=safinxr&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
 ###
 
 
